@@ -8,7 +8,7 @@ public class Main {
 		float alturaEdificio=(float) 451.15;
 		float precioProducto=(float) 1499.99;
 		long numeroTelefono= 3885429854l;
-		double coseno=0.9999619231;
+		double coseno=Math.cos(0.5);
 		
 		System.out.println("Nombre de Pais: "+nombrePais);
 		System.out.println("Edad de una Persona: "+edadPersona);
