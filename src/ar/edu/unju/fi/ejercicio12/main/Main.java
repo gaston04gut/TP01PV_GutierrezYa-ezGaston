@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.ejercicio12.main;
 import java.util.Calendar;
-import java.util.GregorianCalendar;
+
 import java.util.Scanner;
 
 import ar.edu.unju.fi.ejercicio12.model.Persona;
